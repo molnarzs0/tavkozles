@@ -22,6 +22,9 @@ MER	| 25.0 dB |
 Noise Margin |	21.8 |
 Hiba nélkül vett adás időtartama	| 198 sec |
 
+![The Markdown logo](https://sandorpeteer.github.io/tavkozles/img/miskolciTV.png)
+
+
 
 **4. Mérési eredmények**  
 
