@@ -11,11 +11,11 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 ![The Markdown logo](https://sandorpeteer.github.io/tavkozles/img/map.png)
 
 3. Mérési paraméterek
-| Paraméter	| Érték
-| Adó frekvencia | 666 MHz
-| Sávszélesség |	8MHz
-| Moduláció típusa |	64-QAM, 8K, 1/4
-| Jelerősség (RSSI) |	63.8 dBu
+ Paraméter	| Érték |
+ Adó frekvencia | 666 MHz |
+ Sávszélesség |	8MHz |
+ Moduláció típusa |	64-QAM, 8K, 1/4
+ Jelerősség (RSSI) |	63.8 dBu
 MER	29.0 dB
 Noise Margin	12.0
 Hiba nélkül vett adás időtartama	200 sec
