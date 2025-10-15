@@ -3,8 +3,8 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 
 **2. Mérési helyszín és környezet**
 - Koordináták: 48°06’20”N 20°46’48”E
-- Antenna típusa: SMART HD 550 szobaantenna
-- Antenna magassága: 1.7 m
+- Antenna típusa: Ikusi Flash HD3
+- Antenna magassága: 1.3 m
 - Környezet jellemzői: V3 labor, városi körülmények között
 - Adó távolsága: 780,08 m
 
@@ -14,22 +14,22 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 
 | Paraméter	| Érték |
 |------------|---------|
- Adó frekvencia | 666 MHz |
+ Adó frekvencia | 634 MHz |
  Sávszélesség |	8MHz |
- Moduláció típusa |	64-QAM, 8K, 1/4 |
- Jelerősség (RSSI) |	63.8 dBu |
-MER	| 29.0 dB |
-Noise Margin |	12.0 |
-Hiba nélkül vett adás időtartama	| 200 sec |
+ Moduláció típusa |	QPSK, 8K, 1/32 |
+ Jelerősség (RSSI) |	50.1 dBu |
+MER	| 25.0 dB |
+Noise Margin |	21.8 |
+Hiba nélkül vett adás időtartama	| 198 sec |
 
 
 **4. Mérési eredmények**  
 
-Jelerősség: A mért jelerősség 64 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.
+Jelerősség: A mért jelerősség 50.1 dBu. Ez az érték stabil volt 198 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.
 
-Modulációs paraméterek: A 64-QAM moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.
+Modulációs paraméterek: A QPSK moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.
 
-Modulation Error Ratio (MER): A mért MER érték 28.2 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.
+Modulation Error Ratio (MER): A mért MER érték 25.0 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.
 
 **5. Elemzés**  
 
